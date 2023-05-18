@@ -1,5 +1,7 @@
 # The Elocution Coach Limited
 
+## Website for an Elocution Coaching Company based in Milton Keynes
+
 https://www.youtube.com/watch?v=nVb7p_NZqCE
 
 **Favourite Feature:** The animated SVG blobs and incorporating this element into the design.
